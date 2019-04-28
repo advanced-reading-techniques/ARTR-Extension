@@ -1,0 +1,26 @@
+{
+  "name": "artr-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advanced-reading-techniques/ARTR-Extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/advanced-reading-techniques/ARTR-Extension/issues"
+  },
+  "homepage": "https://github.com/advanced-reading-techniques/ARTR-Extension#readme",
+  "devDependencies": {
+    "electron": "^5.0.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.17.0"
+  }
+}
